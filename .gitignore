@@ -1,0 +1,15 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+
+# Copyrighted textbooks
+books/*.pdf
+
+# Generated data
+data/processed/
+data/index/

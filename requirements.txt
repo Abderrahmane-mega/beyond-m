@@ -1,0 +1,9 @@
+
+numpy
+pandas
+PyMuPDF
+sentence-transformers
+faiss-cpu
+requests
+streamlit
+pytest
